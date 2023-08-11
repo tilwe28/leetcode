@@ -5,50 +5,43 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        dummy, k = ListNode(), len(lists)
-        res, currs, total_size = dummy, [None] * k, 0
-        for i,head in enumerate(lists):
-            currs[i], curr = head, head
-            while curr:
-                total_size += 1
-                curr = curr.next
+        if not lists:
+            return None
 
-        for i in range(total_size):
-            min_node, min_index = ListNode(float('inf'), None), -1
-            for j in range(k):
-                if currs[j] and currs[j].val < min_node.val:
-                    min_node, min_index = currs[j], j
-            res.next = min_node
-            res = res.next
-            currs[min_index] = currs[min_index].next
+        res = lists[0]
+        for i in range(1, len(lists)):
+            res = self.merge(res, lists[i])
+        return res
+
+    def merge(self, list1, list2):
+        dummy = ListNode()
+        curr = dummy
+        while list1 and list2:
+            if list1.val <= list2.val:
+                curr.next = list1
+                list1 = list1.next
+            else:
+                curr.next = list2
+                list2 = list2.next
+            curr = curr.next
+        if list1:
+            curr.next = list1
+        elif list2:
+            curr.next = list2
         return dummy.next
-
-        # O(k^2 * n) time, where k is number of lists and n is amount of items in each list
-        # O(k) space
+    
+    # O(k * n) time
 
 """
 LINKED LIST
-- set k = len(lists)
-- have dummy node to start list (avoids edge cases)
-- start iterating through lists (iterate through make length of sublist)
-- check each curr and add minimum value to result
-- iterate corresponding curr
-- repeat until it reached the end of each list
+- Previous method was to add minimum one at a time by checking all the currs of each list
+- New method is merging each list while iterating through
 
-- to iterate, have a list of k curr (currs = [] * k)
-- then iterate through outer list
-    - set currs[k] to head of kth list
-    - also at same time, track number of total items
+- Already know how to merge 2 sorted lists
+- Result will just be taking first list and merging it with second list, and repeating until
+  there's only 1 list
 
-- iterate with for loop in range of total items (need to add that many items for end result)
-- have inner loop that checks the curr value for the sublists
-    - keep track of which list contains the minimum
-- have min_node = currs[0] and min_index = 0, and override if currs[k].val < min_node.val
-- once min is found, add to result with res.next = min_node
-  and then increment with currs[min_index] = currs[min_index].next
-
-- remember to check for null pointer exceptions (don't do checks if currs[k] doesn't exist)
-    - only happens once everything in that sublist has already been added
-
-return dummy.next
+- have result list and iterate through lists
+- call merge function by doing res = merge(res, curr_list)
+- return merge
 """
