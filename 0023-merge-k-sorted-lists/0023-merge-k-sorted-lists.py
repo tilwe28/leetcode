@@ -8,10 +8,14 @@ class Solution:
         if not lists:
             return None
 
-        res = lists[0]
-        for i in range(1, len(lists)):
-            res = self.merge(res, lists[i])
-        return res
+        while len(lists) > 1:
+            temp = []
+            for i in range(0, len(lists), 2):
+                list1  = lists[i]
+                list2 = lists[i + 1] if (i + 1) < len(lists) else None
+                temp.append(self.merge(list1, list2))
+            lists = temp
+        return lists[0]
 
     def merge(self, list1, list2):
         dummy = ListNode()
@@ -26,22 +30,20 @@ class Solution:
             curr = curr.next
         if list1:
             curr.next = list1
-        elif list2:
+        if list2:
             curr.next = list2
         return dummy.next
-    
-    # O(k * n) time
 
 """
 LINKED LIST
-- Previous method was to add minimum one at a time by checking all the currs of each list
-- New method is merging each list while iterating through
+- have already gone through 2 solutions
+    - first was doing the same method as merging 2 lists, but having pointers for each list
+    - second was merging first and second, then that result and third, and so on and so forth
+    - this method will be merging pairs of lists, and storing that, then merging the new pairs
 
-- Already know how to merge 2 sorted lists
-- Result will just be taking first list and merging it with second list, and repeating until
-  there's only 1 list
-
-- have result list and iterate through lists
-- call merge function by doing res = merge(res, curr_list)
-- return merge
+- Overall idea is to merge pairs of lists until all the lists are merged
+- To do this have a temporary lists that stores the current state of the merged lists
+- So pretty much merge pairs and add result to temp list
+- then after each pair is merged, set lists = temp
+- repeat until lists only has end result (1 final merged list)
 """
