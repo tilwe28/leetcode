@@ -11,13 +11,10 @@ class Solution:
 
         return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
 
-        # recursive dfs
-
 """
 BINARY TREE
-- traverse to maximum depth and count each step down
-- to achieve this, add 1 to max(depth(left), depth(right))
-- if there is no left or right return none
-NOTE: many tree problems can be solved easily with recursion as the tree can be broken down into subtrees with  
-      the same properties. this way the base cases are more easily seen.
+- recursive dfs
+- adding 1 every time there is child
+- when returning, current node height is the max depth relative to children
+- pattern repeats up to root
 """
