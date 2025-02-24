@@ -10,6 +10,7 @@ Collection of LeetCode questions that I have done.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tilwe28/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/tilwe28/leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/tilwe28/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0733-flood-fill](https://github.com/tilwe28/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
@@ -79,4 +80,8 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
+## String
+|  |
+| ------- |
+| [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
 <!---LeetCode Topics End-->
