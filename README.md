@@ -12,6 +12,7 @@ Collection of LeetCode questions that I have done.
 | [0219-contains-duplicate-ii](https://github.com/tilwe28/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0733-flood-fill](https://github.com/tilwe28/leetcode/tree/master/0733-flood-fill) |
+| [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
@@ -33,6 +34,7 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0200-number-of-islands](https://github.com/tilwe28/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tilwe28/leetcode/tree/master/0733-flood-fill) |
+| [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,12 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
+## Tree
+|  |
+| ------- |
+| [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
 <!---LeetCode Topics End-->
