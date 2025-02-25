@@ -12,6 +12,7 @@ Collection of LeetCode questions that I have done.
 | [0219-contains-duplicate-ii](https://github.com/tilwe28/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/tilwe28/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/tilwe28/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
