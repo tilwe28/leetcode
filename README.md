@@ -47,6 +47,7 @@ Collection of LeetCode questions that I have done.
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/tilwe28/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -55,6 +56,7 @@ Collection of LeetCode questions that I have done.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -84,4 +86,12 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
