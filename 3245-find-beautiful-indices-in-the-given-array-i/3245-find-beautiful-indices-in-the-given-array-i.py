@@ -36,31 +36,20 @@ class Solution:
 
 
     def beautifulIndices(self, s: str, a: str, b: str, k: int) -> List[int]:
-        # res = []
-        # for i in range(len(s) - len(a) + 1):
-        #     if s[i:i+len(a)] != a:
-        #         continue
-            
-        #     for j in range(max(0, i - k), min(len(s) - len(b) + 1, i + k + 1)):
-        #         if s[j:j+len(b)] == b:
-        #             res.append(i)
-        #             break
-        
-        # return res
-
         indices_a = self.KMP(s, a)
         indices_b = self.KMP(s, b)
 
-        print(indices_a)
-        print(indices_b)
-
         res = []
-        l, r = 0, 0
-        for idx_a in indices_a:
-            for idx_b in indices_b:
-                if abs(idx_a - idx_b) <= k:
-                    res.append(idx_a)
-                    break
+        ap, bp = 0, 0
+        while ap < len(indices_a) and bp < len(indices_b):
+            idx_a, idx_b = indices_a[ap], indices_b[bp]
+            if idx_a - k <= idx_b <= idx_a + k:
+                res.append(idx_a)
+                ap += 1
+            elif idx_a < idx_b:
+                ap += 1
+            else:
+                bp += 1
 
         return res
         
@@ -87,4 +76,7 @@ OPTIMIZATIONS:
 - setup LPS for str a and str b
 - find indices for matches (i for a, j for b)
 - filter indices i such that |i - j| <= k
+    - 2 pointer
+Time: O(n)
+Space: O(n)
 """
