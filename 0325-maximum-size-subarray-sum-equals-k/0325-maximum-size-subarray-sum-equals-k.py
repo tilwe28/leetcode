@@ -24,23 +24,9 @@ BRUTE FORCE:
 Time: O(n^2)
 
 INITIAL THOUGHTS:
-- calculate prefix sum
-- have hashmap from psum value to index
-- check if psum[i] - k exists in map
-
-k = 3
-nums: [1, -1, 5, -2, 3]
-psum: [0, 1, 0, 5, 3, 6]
-needed: [-2, -3, 2, 0, 3]
-
-k = 1
-nums: [-2, -1, 2, 1]
-psum: [0, -2, -3, -1, 0]
-needed: [-3, -4, -2, -1]
-
-k = 1
-nums: [-1, 1]
-psum: [0, -1, 0]
-needed: [-2, -1]
-seen: {0: 0, -1: 1}
+- calculate prefix sum (dummy 0 value)
+- have hashmap from seen psum value to index (dummy 0 value)
+- check if needed (psum[i] - k) exists in map
+    - update max_dist
+- add psum in seen (only if not seen before)
 """
