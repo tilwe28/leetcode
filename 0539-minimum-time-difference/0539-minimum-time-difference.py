@@ -33,4 +33,10 @@ INITIAL THOUGHTS:
     - b/c max time difference can only be 12 hours
 Time: O(n log n) <- sorting array
 Space: O(n)
+
+POTENTIAL OPTIMIZATIONS:
+- reuse timePoints list for O(1) space
+- check duplicate times
+    - using set: O(n) time and O(n) space
+    - checking diff == 0: O(n log n) time and O(1)
 """
