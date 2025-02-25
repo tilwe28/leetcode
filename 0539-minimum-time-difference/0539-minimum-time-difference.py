@@ -3,17 +3,17 @@ class Solution:
         HOURS_IN_DAY = 24
         MINS_IN_HOUR = 60
         MINS_IN_DAY = MINS_IN_HOUR * HOURS_IN_DAY
+        N = len(timePoints)
 
-        times = []
-        for time in timePoints:
-            h, m = time.split(":")
-            mins_passed = (int(h) * 60) + int(m)
-            times.append(mins_passed)
+        for i, time in enumerate(timePoints):
+            hours, mins = time.split(":")
+            mins_passed = (int(hours) * MINS_IN_HOUR) + int(mins)
+            timePoints[i] = mins_passed
 
-        times.sort()
+        timePoints.sort()
         min_diff = MINS_IN_DAY
-        for i in range(len(times) + 1):
-            curr_diff = abs(times[i % len(times)] - times[(i - 1) % len(times)])
+        for i in range(N + 1):
+            curr_diff = abs(timePoints[i % N] - timePoints[(i - 1) % N])
             if curr_diff > MINS_IN_DAY / 2:
                 curr_diff = MINS_IN_DAY - curr_diff
 
