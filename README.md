@@ -19,6 +19,7 @@ Collection of LeetCode questions that I have done.
 | [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ Collection of LeetCode questions that I have done.
 | [0219-contains-duplicate-ii](https://github.com/tilwe28/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0056-merge-intervals](https://github.com/tilwe28/leetcode/tree/master/0056-merge-intervals) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Union Find
 |  |
 | ------- |
@@ -145,4 +148,5 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
