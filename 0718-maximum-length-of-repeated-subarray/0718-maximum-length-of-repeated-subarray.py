@@ -7,8 +7,6 @@ class Solution:
                 if nums1[i - 1] == nums2[j - 1]:
                     dp[i][j] = dp[i-1][j-1] + 1
                     max_len = max(max_len, dp[i][j])
-                else:
-                    dp[i][j] = 0
         return max_len
 
 """
