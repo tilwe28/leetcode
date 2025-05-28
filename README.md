@@ -54,6 +54,7 @@ Collection of LeetCode questions that I have done.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Geometry
@@ -117,6 +118,7 @@ Collection of LeetCode questions that I have done.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
@@ -164,4 +166,8 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
