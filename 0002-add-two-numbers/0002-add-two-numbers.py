@@ -24,7 +24,7 @@ class Solution:
             tail.next = tmp
             tail = tmp
 
-        return (head.next if head else head)
+        return head.next
 
 
 """
