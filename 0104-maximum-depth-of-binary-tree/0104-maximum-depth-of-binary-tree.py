@@ -8,13 +8,5 @@ class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-
-        return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
-
-"""
-BINARY TREE
-- recursive dfs
-- adding 1 every time there is child
-- when returning, current node height is the max depth relative to children
-- pattern repeats up to root
-"""
+        
+        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
