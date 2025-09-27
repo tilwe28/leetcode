@@ -11,6 +11,7 @@ Collection of LeetCode questions that I have done.
 | [0200-number-of-islands](https://github.com/tilwe28/leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/tilwe28/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
+| [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Geometry
@@ -67,6 +69,7 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/tilwe28/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -89,6 +92,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tilwe28/leetcode/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Union Find
@@ -144,6 +148,7 @@ Collection of LeetCode questions that I have done.
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tilwe28/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Rolling Hash
@@ -178,5 +183,6 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0190-reverse-bits](https://github.com/tilwe28/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tilwe28/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/tilwe28/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
