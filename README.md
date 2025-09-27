@@ -26,6 +26,7 @@ Collection of LeetCode questions that I have done.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tilwe28/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tilwe28/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/tilwe28/leetcode/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tilwe28/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/tilwe28/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -193,4 +195,8 @@ Collection of LeetCode questions that I have done.
 | [0191-number-of-1-bits](https://github.com/tilwe28/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/tilwe28/leetcode/tree/master/0338-counting-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tilwe28/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
