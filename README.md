@@ -102,6 +102,7 @@ Collection of LeetCode questions that I have done.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/tilwe28/leetcode/tree/master/0191-number-of-1-bits) |
 | [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
 ## Tree
 |  |
@@ -170,4 +171,8 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/tilwe28/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
