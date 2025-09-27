@@ -26,6 +26,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tilwe28/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/tilwe28/leetcode/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tilwe28/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Depth-First Search
 |  |
@@ -175,4 +176,5 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tilwe28/leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/tilwe28/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
