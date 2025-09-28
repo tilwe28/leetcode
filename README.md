@@ -39,6 +39,7 @@ Collection of LeetCode questions that I have done.
 | [0210-course-schedule-ii](https://github.com/tilwe28/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tilwe28/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tilwe28/leetcode/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tilwe28/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions that I have done.
 | [0104-maximum-depth-of-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
 ## String
 |  |
@@ -186,6 +188,7 @@ Collection of LeetCode questions that I have done.
 | [0104-maximum-depth-of-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Recursion
 |  |
 | ------- |
