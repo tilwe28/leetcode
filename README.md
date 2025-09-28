@@ -21,6 +21,7 @@ Collection of LeetCode questions that I have done.
 | [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/tilwe28/leetcode/tree/master/0792-binary-search) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
+| [1127-last-stone-weight](https://github.com/tilwe28/leetcode/tree/master/1127-last-stone-weight) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -207,4 +208,8 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tilwe28/leetcode/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/tilwe28/leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
