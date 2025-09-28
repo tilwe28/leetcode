@@ -19,6 +19,7 @@ Collection of LeetCode questions that I have done.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tilwe28/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/tilwe28/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
+| [0792-binary-search](https://github.com/tilwe28/leetcode/tree/master/0792-binary-search) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tilwe28/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0792-binary-search](https://github.com/tilwe28/leetcode/tree/master/0792-binary-search) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Rolling Hash
 |  |
