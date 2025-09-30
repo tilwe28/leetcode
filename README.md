@@ -6,6 +6,7 @@ Collection of LeetCode questions that I have done.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tilwe28/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tilwe28/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tilwe28/leetcode/tree/master/0056-merge-intervals) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions that I have done.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tilwe28/leetcode/tree/master/0011-container-with-most-water) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Divide and Conquer
 |  |
@@ -166,6 +168,7 @@ Collection of LeetCode questions that I have done.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tilwe28/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tilwe28/leetcode/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/tilwe28/leetcode/tree/master/0202-happy-number) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
