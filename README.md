@@ -6,6 +6,7 @@ Collection of LeetCode questions that I have done.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tilwe28/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tilwe28/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/tilwe28/leetcode/tree/master/0200-number-of-islands) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions that I have done.
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/tilwe28/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/tilwe28/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions that I have done.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tilwe28/leetcode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
@@ -134,6 +137,7 @@ Collection of LeetCode questions that I have done.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
