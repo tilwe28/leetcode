@@ -155,6 +155,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tilwe28/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/tilwe28/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
@@ -176,6 +177,7 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0011-container-with-most-water](https://github.com/tilwe28/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tilwe28/leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tilwe28/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/tilwe28/leetcode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/tilwe28/leetcode/tree/master/0202-happy-number) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
