@@ -41,6 +41,7 @@ Collection of LeetCode questions that I have done.
 | [0213-house-robber-ii](https://github.com/tilwe28/leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/tilwe28/leetcode/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tilwe28/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1250-longest-common-subsequence](https://github.com/tilwe28/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Collection of LeetCode questions that I have done.
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
+| [1250-longest-common-subsequence](https://github.com/tilwe28/leetcode/tree/master/1250-longest-common-subsequence) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Linked List
 |  |
