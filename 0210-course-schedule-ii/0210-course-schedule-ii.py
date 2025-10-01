@@ -1,48 +1,36 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        course_prereqs = [[] for _ in range(numCourses)] # adj list
+        courses = [[] for _ in range(numCourses)]
         for course, prereq in prerequisites:
-            course_prereqs[course].append(prereq)
-
-        order = []
+            courses[course].append(prereq)
+        
+        res = []
         registered, path = set(), set()
 
-        def dfs(course) -> bool:
+        def dfs(course):
             if course in registered:
                 return True
             if course in path:
-                # cycle
                 return False
-
+            
             path.add(course)
-            for prereq in course_prereqs[course]:
+            for prereq in courses[course]:
                 if not dfs(prereq):
                     return False
-
+            
             path.remove(course)
             registered.add(course)
-            order.append(course)
+            res.append(course)
             return True
 
         for course in range(numCourses):
             if not dfs(course):
                 return []
-
-        return order
+        return res
 
 """
-BRUTE FORCE:
-- for each course, find it's prereq
-- if a course doesn't have a prereq, that can be taken first
-- before adding course, check if prereq has been added to taken
-
-edge cases:
-- cycles in prereqs
-
-OPTIMAL:
-- make prereq map (list of lists)
-- DFS for each course
-- track path during DFS (used for cycle detection)
-- track courses added
-- add course at end of DFS traversal / no prereqs unsatisfied
+Map of course to prerequisites
+run dfs on map
+track courses taken
+track path taken to get to course during dfs (avoid cycles)
 """
