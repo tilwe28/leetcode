@@ -1,14 +1,39 @@
 class Solution:
-    def beautifulIndices(self, s: str, a: str, b: str, k: int) -> List[int]:
-        indices_a = []
-        for i in range(len(s) - len(a) + 1):
-            if s[i:len(a) + i] == a:
-                indices_a.append(i)
+    def KMP(self, txt: str, pat: str) -> List[int]:
+        lps = [0] * len(pat)
+        i, prevLPS = 1, 0
+        while i < len(pat):
+            if pat[i] == pat[prevLPS]:
+                prevLPS += 1
+                lps[i] = prevLPS
+                i += 1
+            elif prevLPS == 0:
+                lps[i] = 0
+                i += 1
+            else:
+                prevLPS = lps[prevLPS - 1]
+        
+        indices = []
+        txt_p, pat_p = 0, 0
+        while txt_p < len(txt):
+            if txt[txt_p] == pat[pat_p]:
+                txt_p += 1
+                pat_p += 1
 
-        indices_b = []
-        for i in range(len(s) - len(b) + 1):
-            if s[i:len(b) + i] == b:
-                indices_b.append(i) 
+                if pat_p == len(pat):
+                    indices.append(txt_p - len(pat))
+                    pat_p = lps[pat_p - 1]
+
+            elif pat_p == 0:
+                txt_p += 1
+            else:
+                pat_p = lps[pat_p - 1]
+
+        return indices
+
+    def beautifulIndices(self, s: str, a: str, b: str, k: int) -> List[int]:
+        indices_a = self.KMP(s, a)
+        indices_b = self.KMP(s, b)
 
         res = []
         ap, bp = 0, 0
