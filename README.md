@@ -140,6 +140,7 @@ Collection of LeetCode questions that I have done.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tilwe28/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/tilwe28/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tilwe28/leetcode/tree/master/0191-number-of-1-bits) |
 | [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tilwe28/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/tilwe28/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/tilwe28/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
@@ -255,6 +257,7 @@ Collection of LeetCode questions that I have done.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tilwe28/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1127-last-stone-weight](https://github.com/tilwe28/leetcode/tree/master/1127-last-stone-weight) |
 ## Stack
 |  |
@@ -264,4 +267,8 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tilwe28/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tilwe28/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
