@@ -79,6 +79,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/tilwe28/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/tilwe28/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tilwe28/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
