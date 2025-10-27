@@ -168,6 +168,7 @@ Collection of LeetCode questions that I have done.
 | [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0273-integer-to-english-words](https://github.com/tilwe28/leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/tilwe28/leetcode/tree/master/0394-decode-string) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions that I have done.
 | [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/tilwe28/leetcode/tree/master/0143-reorder-list) |
 | [0273-integer-to-english-words](https://github.com/tilwe28/leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/tilwe28/leetcode/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/tilwe28/leetcode/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/tilwe28/leetcode/tree/master/0394-decode-string) |
 ## Binary Search Tree
 |  |
 | ------- |
