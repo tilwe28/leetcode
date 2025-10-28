@@ -40,6 +40,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tilwe28/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/tilwe28/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/tilwe28/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tilwe28/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tilwe28/leetcode/tree/master/0198-house-robber) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions that I have done.
 | [0003-longest-substring-without-repeating-characters](https://github.com/tilwe28/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tilwe28/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/tilwe28/leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/tilwe28/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0273-integer-to-english-words](https://github.com/tilwe28/leetcode/tree/master/0273-integer-to-english-words) |
@@ -303,4 +305,8 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tilwe28/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tilwe28/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
