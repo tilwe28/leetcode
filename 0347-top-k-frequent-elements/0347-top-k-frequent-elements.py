@@ -1,15 +1,22 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        numCount = {}
-        freq = [[] for i in range(len(nums) + 1)]
+        counts = defaultdict(int)
         for n in nums:
-            numCount[n] = 1 + numCount.get(n, 0)
-        for n,c in numCount.items():
-            freq[c].append(n)
+            counts[n] += 1
         
-        ans = []
-        for i in range(len(freq) - 1, 0, -1):
-            for n in freq[i]:
-                ans.append(n)
-            if len(ans) == k:
-                return ans
+        buckets = [[] for _ in range(len(nums) + 1)]
+        for n, c in counts.items():
+            buckets[c].append(n)
+        
+        res = []
+        for i in range(len(nums), -1, -1):
+            for n in buckets[i]:
+                res.append(n)
+            if len(res) == k:
+                return res
+
+"""
+- count frequency of each num
+- create buckets for each frequency (list of lists)
+- add numbers in highest frequency until k added
+"""
