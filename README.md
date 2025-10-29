@@ -12,6 +12,7 @@ Collection of LeetCode questions that I have done.
 | [0033-search-in-rotated-sorted-array](https://github.com/tilwe28/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tilwe28/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/tilwe28/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tilwe28/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tilwe28/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tilwe28/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions that I have done.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tilwe28/leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/tilwe28/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tilwe28/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
@@ -315,4 +317,5 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tilwe28/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/tilwe28/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
