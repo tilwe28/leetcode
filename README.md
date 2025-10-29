@@ -120,6 +120,7 @@ Collection of LeetCode questions that I have done.
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions that I have done.
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/tilwe28/leetcode/tree/master/1250-longest-common-subsequence) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
 ## Linked List
 |  |
 | ------- |
@@ -321,4 +323,12 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0022-generate-parentheses](https://github.com/tilwe28/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/tilwe28/leetcode/tree/master/0078-subsets) |
+## Trie
+|  |
+| ------- |
+| [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
+## Simulation
+|  |
+| ------- |
+| [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
 <!---LeetCode Topics End-->
