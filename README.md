@@ -132,6 +132,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/tilwe28/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -303,6 +304,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/tilwe28/leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/tilwe28/leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/tilwe28/leetcode/tree/master/0394-decode-string) |
 ## Binary Search Tree
 |  |
