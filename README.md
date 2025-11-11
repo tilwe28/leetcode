@@ -60,6 +60,7 @@ Collection of LeetCode questions that I have done.
 | [0110-balanced-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/tilwe28/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/tilwe28/leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tilwe28/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tilwe28/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions that I have done.
 | [0155-min-stack](https://github.com/tilwe28/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/tilwe28/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tilwe28/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -195,6 +197,7 @@ Collection of LeetCode questions that I have done.
 | [0022-generate-parentheses](https://github.com/tilwe28/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/tilwe28/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tilwe28/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0273-integer-to-english-words](https://github.com/tilwe28/leetcode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/tilwe28/leetcode/tree/master/0394-decode-string) |
@@ -339,6 +342,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tilwe28/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tilwe28/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
 ## Simulation
 |  |
