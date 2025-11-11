@@ -133,6 +133,7 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0146-lru-cache](https://github.com/tilwe28/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tilwe28/leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -177,6 +178,7 @@ Collection of LeetCode questions that I have done.
 | [0102-binary-tree-level-order-traversal](https://github.com/tilwe28/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tilwe28/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions that I have done.
 | [0102-binary-tree-level-order-traversal](https://github.com/tilwe28/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tilwe28/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -305,10 +308,12 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0143-reorder-list](https://github.com/tilwe28/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/tilwe28/leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/tilwe28/leetcode/tree/master/0394-decode-string) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tilwe28/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Merge Sort
 |  |
@@ -335,4 +340,8 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
