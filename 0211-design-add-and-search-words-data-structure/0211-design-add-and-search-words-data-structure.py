@@ -1,21 +1,18 @@
-LETTERS = "abcdefghijklmnopqrstuvwxyz"
-
 class Node:
-    def __init__(self, letter: str):
-        self.letter = letter
+    def __init__(self):
         self.next = {}
         self.end = False
 
 class WordDictionary:
 
     def __init__(self):
-        self.root = Node('')
+        self.root = Node()
 
     def addWord(self, word: str) -> None:
         curr = self.root
         for c in word:
             if c not in curr.next:
-                curr.next[c] = Node(c)
+                curr.next[c] = Node()
             curr = curr.next[c]
         curr.end = True
 
@@ -27,11 +24,9 @@ class WordDictionary:
         for i, c in enumerate(word):
             if c == '.':
                 # backtrack
-                for l in LETTERS:
-                    if l in curr.next:
-                        res = self.backtrack(word[i+1:], curr.next[l])
-                        if res:
-                            return True
+                for l in curr.next.keys():
+                    if self.backtrack(word[i+1:], curr.next[l]):
+                        return True
                 return False
             elif c not in curr.next:
                 return False
