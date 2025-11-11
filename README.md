@@ -138,6 +138,7 @@ Collection of LeetCode questions that I have done.
 | [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/tilwe28/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tilwe28/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/tilwe28/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -315,6 +316,7 @@ Collection of LeetCode questions that I have done.
 | [0143-reorder-list](https://github.com/tilwe28/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/tilwe28/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/tilwe28/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/tilwe28/leetcode/tree/master/0394-decode-string) |
 ## Binary Search Tree
 |  |
@@ -352,4 +354,8 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tilwe28/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
