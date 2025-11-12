@@ -24,6 +24,7 @@ Collection of LeetCode questions that I have done.
 | [0219-contains-duplicate-ii](https://github.com/tilwe28/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0244-shortest-word-distance-ii](https://github.com/tilwe28/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
+| [0251-flatten-2d-vector](https://github.com/tilwe28/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tilwe28/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions that I have done.
 | [0225-implement-stack-using-queues](https://github.com/tilwe28/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tilwe28/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0244-shortest-word-distance-ii](https://github.com/tilwe28/leetcode/tree/master/0244-shortest-word-distance-ii) |
+| [0251-flatten-2d-vector](https://github.com/tilwe28/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -246,6 +248,7 @@ Collection of LeetCode questions that I have done.
 | [0189-rotate-array](https://github.com/tilwe28/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tilwe28/leetcode/tree/master/0202-happy-number) |
 | [0244-shortest-word-distance-ii](https://github.com/tilwe28/leetcode/tree/master/0244-shortest-word-distance-ii) |
+| [0251-flatten-2d-vector](https://github.com/tilwe28/leetcode/tree/master/0251-flatten-2d-vector) |
 | [0283-move-zeroes](https://github.com/tilwe28/leetcode/tree/master/0283-move-zeroes) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Search
@@ -361,6 +364,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tilwe28/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0251-flatten-2d-vector](https://github.com/tilwe28/leetcode/tree/master/0251-flatten-2d-vector) |
 ## Queue
 |  |
 | ------- |
