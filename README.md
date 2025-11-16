@@ -32,6 +32,7 @@ Collection of LeetCode questions that I have done.
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/tilwe28/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0362-design-hit-counter](https://github.com/tilwe28/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions that I have done.
 | [0271-encode-and-decode-strings](https://github.com/tilwe28/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/tilwe28/leetcode/tree/master/0281-zigzag-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0362-design-hit-counter](https://github.com/tilwe28/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -268,6 +270,7 @@ Collection of LeetCode questions that I have done.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tilwe28/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tilwe28/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
+| [0362-design-hit-counter](https://github.com/tilwe28/leetcode/tree/master/0362-design-hit-counter) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tilwe28/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/tilwe28/leetcode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -381,8 +384,13 @@ Collection of LeetCode questions that I have done.
 | [0225-implement-stack-using-queues](https://github.com/tilwe28/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tilwe28/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0281-zigzag-iterator](https://github.com/tilwe28/leetcode/tree/master/0281-zigzag-iterator) |
+| [0362-design-hit-counter](https://github.com/tilwe28/leetcode/tree/master/0362-design-hit-counter) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/tilwe28/leetcode/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
