@@ -136,6 +136,7 @@ Collection of LeetCode questions that I have done.
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
+| [3678-design-task-manager](https://github.com/tilwe28/leetcode/tree/master/3678-design-task-manager) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
 ## Sliding Window
 |  |
@@ -165,6 +166,7 @@ Collection of LeetCode questions that I have done.
 | [0432-all-oone-data-structure](https://github.com/tilwe28/leetcode/tree/master/0432-all-oone-data-structure) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
+| [3678-design-task-manager](https://github.com/tilwe28/leetcode/tree/master/3678-design-task-manager) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -344,6 +346,7 @@ Collection of LeetCode questions that I have done.
 | [0295-find-median-from-data-stream](https://github.com/tilwe28/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tilwe28/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/tilwe28/leetcode/tree/master/1127-last-stone-weight) |
+| [3678-design-task-manager](https://github.com/tilwe28/leetcode/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
 | ------- |
@@ -409,4 +412,8 @@ Collection of LeetCode questions that I have done.
 | [0295-find-median-from-data-stream](https://github.com/tilwe28/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/tilwe28/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/tilwe28/leetcode/tree/master/0362-design-hit-counter) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/tilwe28/leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
