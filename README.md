@@ -71,6 +71,7 @@ Collection of LeetCode questions that I have done.
 | [0226-invert-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tilwe28/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tilwe28/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tilwe28/leetcode/tree/master/0733-flood-fill) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions that I have done.
 | [0200-number-of-islands](https://github.com/tilwe28/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/tilwe28/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tilwe28/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tilwe28/leetcode/tree/master/0733-flood-fill) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tilwe28/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions that I have done.
 | [0271-encode-and-decode-strings](https://github.com/tilwe28/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/tilwe28/leetcode/tree/master/0281-zigzag-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/tilwe28/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0359-logger-rate-limiter](https://github.com/tilwe28/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/tilwe28/leetcode/tree/master/0362-design-hit-counter) |
@@ -214,6 +217,7 @@ Collection of LeetCode questions that I have done.
 | [0226-invert-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tilwe28/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/tilwe28/leetcode/tree/master/0772-construct-quad-tree) |
 ## String
@@ -230,6 +234,7 @@ Collection of LeetCode questions that I have done.
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0271-encode-and-decode-strings](https://github.com/tilwe28/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/tilwe28/leetcode/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/tilwe28/leetcode/tree/master/0394-decode-string) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
@@ -319,6 +324,7 @@ Collection of LeetCode questions that I have done.
 | [0226-invert-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tilwe28/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tilwe28/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Recursion
 |  |
