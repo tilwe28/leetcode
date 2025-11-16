@@ -46,6 +46,7 @@ Collection of LeetCode questions that I have done.
 | [1127-last-stone-weight](https://github.com/tilwe28/leetcode/tree/master/1127-last-stone-weight) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
 |  |
@@ -132,6 +133,7 @@ Collection of LeetCode questions that I have done.
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
 ## Sliding Window
 |  |
@@ -157,6 +159,7 @@ Collection of LeetCode questions that I have done.
 | [0362-design-hit-counter](https://github.com/tilwe28/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
+| [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -371,6 +374,7 @@ Collection of LeetCode questions that I have done.
 ## Simulation
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
 ## Iterator
 |  |
