@@ -32,6 +32,7 @@ Collection of LeetCode questions that I have done.
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/tilwe28/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/tilwe28/leetcode/tree/master/0695-max-area-of-island) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions that I have done.
 | [0202-happy-number](https://github.com/tilwe28/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/tilwe28/leetcode/tree/master/0273-integer-to-english-words) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0830-largest-triangle-area](https://github.com/tilwe28/leetcode/tree/master/0830-largest-triangle-area) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions that I have done.
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/tilwe28/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -150,6 +153,7 @@ Collection of LeetCode questions that I have done.
 | [0271-encode-and-decode-strings](https://github.com/tilwe28/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/tilwe28/leetcode/tree/master/0281-zigzag-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
 |  |
@@ -377,4 +381,8 @@ Collection of LeetCode questions that I have done.
 | [0225-implement-stack-using-queues](https://github.com/tilwe28/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tilwe28/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0281-zigzag-iterator](https://github.com/tilwe28/leetcode/tree/master/0281-zigzag-iterator) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
