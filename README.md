@@ -128,6 +128,7 @@ Collection of LeetCode questions that I have done.
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/tilwe28/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0359-logger-rate-limiter](https://github.com/tilwe28/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/tilwe28/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions that I have done.
 | [0281-zigzag-iterator](https://github.com/tilwe28/leetcode/tree/master/0281-zigzag-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/tilwe28/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0359-logger-rate-limiter](https://github.com/tilwe28/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/tilwe28/leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/tilwe28/leetcode/tree/master/0432-all-oone-data-structure) |
@@ -405,5 +407,6 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tilwe28/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0359-logger-rate-limiter](https://github.com/tilwe28/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/tilwe28/leetcode/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
