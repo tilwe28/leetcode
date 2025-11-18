@@ -141,6 +141,7 @@ Collection of LeetCode questions that I have done.
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/tilwe28/leetcode/tree/master/1249-snapshot-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1512-design-underground-system](https://github.com/tilwe28/leetcode/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tilwe28/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/tilwe28/leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions that I have done.
 | [0432-all-oone-data-structure](https://github.com/tilwe28/leetcode/tree/master/0432-all-oone-data-structure) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/tilwe28/leetcode/tree/master/1249-snapshot-array) |
+| [1512-design-underground-system](https://github.com/tilwe28/leetcode/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tilwe28/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/tilwe28/leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions that I have done.
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/tilwe28/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1512-design-underground-system](https://github.com/tilwe28/leetcode/tree/master/1512-design-underground-system) |
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
