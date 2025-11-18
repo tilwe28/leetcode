@@ -44,6 +44,7 @@ Collection of LeetCode questions that I have done.
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0830-largest-triangle-area](https://github.com/tilwe28/leetcode/tree/master/0830-largest-triangle-area) |
 | [1127-last-stone-weight](https://github.com/tilwe28/leetcode/tree/master/1127-last-stone-weight) |
+| [1249-snapshot-array](https://github.com/tilwe28/leetcode/tree/master/1249-snapshot-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tilwe28/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions that I have done.
 | [0560-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/tilwe28/leetcode/tree/master/1249-snapshot-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tilwe28/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/tilwe28/leetcode/tree/master/2161-stock-price-fluctuation) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions that I have done.
 | [0380-insert-delete-getrandom-o1](https://github.com/tilwe28/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/tilwe28/leetcode/tree/master/0432-all-oone-data-structure) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/tilwe28/leetcode/tree/master/1249-snapshot-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tilwe28/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/tilwe28/leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
@@ -302,6 +305,7 @@ Collection of LeetCode questions that I have done.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tilwe28/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/tilwe28/leetcode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/tilwe28/leetcode/tree/master/1249-snapshot-array) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Rolling Hash
 |  |
