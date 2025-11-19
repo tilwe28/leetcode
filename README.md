@@ -25,6 +25,7 @@ Collection of LeetCode questions that I have done.
 | [0244-shortest-word-distance-ii](https://github.com/tilwe28/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/tilwe28/leetcode/tree/master/0245-shortest-word-distance-iii) |
 | [0251-flatten-2d-vector](https://github.com/tilwe28/leetcode/tree/master/0251-flatten-2d-vector) |
+| [0253-meeting-rooms-ii](https://github.com/tilwe28/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/tilwe28/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/tilwe28/leetcode/tree/master/0281-zigzag-iterator) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions that I have done.
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/tilwe28/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions that I have done.
 | [0015-3sum](https://github.com/tilwe28/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tilwe28/leetcode/tree/master/0056-merge-intervals) |
+| [0253-meeting-rooms-ii](https://github.com/tilwe28/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/tilwe28/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/tilwe28/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tilwe28/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -210,6 +213,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tilwe28/leetcode/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/tilwe28/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Divide and Conquer
 |  |
@@ -293,6 +297,7 @@ Collection of LeetCode questions that I have done.
 | [0202-happy-number](https://github.com/tilwe28/leetcode/tree/master/0202-happy-number) |
 | [0244-shortest-word-distance-ii](https://github.com/tilwe28/leetcode/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/tilwe28/leetcode/tree/master/0251-flatten-2d-vector) |
+| [0253-meeting-rooms-ii](https://github.com/tilwe28/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/tilwe28/leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/tilwe28/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -365,6 +370,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tilwe28/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0253-meeting-rooms-ii](https://github.com/tilwe28/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/tilwe28/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tilwe28/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/tilwe28/leetcode/tree/master/1127-last-stone-weight) |
