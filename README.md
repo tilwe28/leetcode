@@ -51,6 +51,7 @@ Collection of LeetCode questions that I have done.
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tilwe28/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/tilwe28/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
 |  |
@@ -115,6 +116,7 @@ Collection of LeetCode questions that I have done.
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0830-largest-triangle-area](https://github.com/tilwe28/leetcode/tree/master/0830-largest-triangle-area) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/tilwe28/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Geometry
 |  |
 | ------- |
@@ -148,6 +150,7 @@ Collection of LeetCode questions that I have done.
 | [2161-stock-price-fluctuation](https://github.com/tilwe28/leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/tilwe28/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3678-design-task-manager](https://github.com/tilwe28/leetcode/tree/master/3678-design-task-manager) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
 ## Sliding Window
@@ -215,6 +218,7 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0011-container-with-most-water](https://github.com/tilwe28/leetcode/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/tilwe28/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/tilwe28/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Divide and Conquer
 |  |
