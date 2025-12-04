@@ -48,6 +48,7 @@ Collection of LeetCode questions that I have done.
 | [1249-snapshot-array](https://github.com/tilwe28/leetcode/tree/master/1249-snapshot-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/tilwe28/leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tilwe28/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions that I have done.
 | [0295-find-median-from-data-stream](https://github.com/tilwe28/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tilwe28/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/tilwe28/leetcode/tree/master/1127-last-stone-weight) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/tilwe28/leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2161-stock-price-fluctuation](https://github.com/tilwe28/leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/tilwe28/leetcode/tree/master/3678-design-task-manager) |
@@ -422,6 +424,7 @@ Collection of LeetCode questions that I have done.
 ## Simulation
 |  |
 | ------- |
+| [1928-number-of-orders-in-the-backlog](https://github.com/tilwe28/leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
 ## Iterator
