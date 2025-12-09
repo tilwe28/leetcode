@@ -44,6 +44,7 @@ Collection of LeetCode questions that I have done.
 | [0792-binary-search](https://github.com/tilwe28/leetcode/tree/master/0792-binary-search) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0830-largest-triangle-area](https://github.com/tilwe28/leetcode/tree/master/0830-largest-triangle-area) |
+| [0906-walking-robot-simulation](https://github.com/tilwe28/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1127-last-stone-weight](https://github.com/tilwe28/leetcode/tree/master/1127-last-stone-weight) |
 | [1249-snapshot-array](https://github.com/tilwe28/leetcode/tree/master/1249-snapshot-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions that I have done.
 | [0432-all-oone-data-structure](https://github.com/tilwe28/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
+| [0906-walking-robot-simulation](https://github.com/tilwe28/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/tilwe28/leetcode/tree/master/1249-snapshot-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -427,6 +429,7 @@ Collection of LeetCode questions that I have done.
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/tilwe28/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/tilwe28/leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
