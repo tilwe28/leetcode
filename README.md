@@ -52,6 +52,7 @@ Collection of LeetCode questions that I have done.
 | [1928-number-of-orders-in-the-backlog](https://github.com/tilwe28/leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tilwe28/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/tilwe28/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/tilwe28/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions that I have done.
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tilwe28/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/tilwe28/leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/tilwe28/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/tilwe28/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3678-design-task-manager](https://github.com/tilwe28/leetcode/tree/master/3678-design-task-manager) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions that I have done.
 | [1023-time-based-key-value-store](https://github.com/tilwe28/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/tilwe28/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1512-design-underground-system](https://github.com/tilwe28/leetcode/tree/master/1512-design-underground-system) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/tilwe28/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
@@ -346,6 +349,7 @@ Collection of LeetCode questions that I have done.
 | [0347-top-k-frequent-elements](https://github.com/tilwe28/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0829-subdomain-visit-count](https://github.com/tilwe28/leetcode/tree/master/0829-subdomain-visit-count) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tilwe28/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/tilwe28/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Binary Tree
 |  |
 | ------- |
