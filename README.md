@@ -68,6 +68,7 @@ Collection of LeetCode questions that I have done.
 | [0338-counting-bits](https://github.com/tilwe28/leetcode/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tilwe28/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1250-longest-common-subsequence](https://github.com/tilwe28/leetcode/tree/master/1250-longest-common-subsequence) |
+| [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/tilwe28/leetcode/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -202,6 +203,7 @@ Collection of LeetCode questions that I have done.
 | [0303-range-sum-query-immutable](https://github.com/tilwe28/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/tilwe28/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/tilwe28/leetcode/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Collection of LeetCode questions that I have done.
 | [0253-meeting-rooms-ii](https://github.com/tilwe28/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/tilwe28/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/tilwe28/leetcode/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +278,7 @@ Collection of LeetCode questions that I have done.
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/tilwe28/leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
+| [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/tilwe28/leetcode/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
 ## Linked List
 |  |
 | ------- |
