@@ -62,6 +62,7 @@ Collection of LeetCode questions that I have done.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tilwe28/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tilwe28/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/tilwe28/leetcode/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/tilwe28/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tilwe28/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tilwe28/leetcode/tree/master/0198-house-robber) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tilwe28/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/tilwe28/leetcode/tree/master/0044-wildcard-matching) |
 | [0253-meeting-rooms-ii](https://github.com/tilwe28/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/tilwe28/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions that I have done.
 | [0005-longest-palindromic-substring](https://github.com/tilwe28/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/tilwe28/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/tilwe28/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/tilwe28/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/tilwe28/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/tilwe28/leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/tilwe28/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -372,6 +375,7 @@ Collection of LeetCode questions that I have done.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tilwe28/leetcode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/tilwe28/leetcode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/tilwe28/leetcode/tree/master/0143-reorder-list) |
 | [0273-integer-to-english-words](https://github.com/tilwe28/leetcode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/tilwe28/leetcode/tree/master/0394-decode-string) |
