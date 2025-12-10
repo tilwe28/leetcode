@@ -53,6 +53,7 @@ Collection of LeetCode questions that I have done.
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tilwe28/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/tilwe28/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tilwe28/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/tilwe28/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tilwe28/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions that I have done.
 | [0539-minimum-time-difference](https://github.com/tilwe28/leetcode/tree/master/0539-minimum-time-difference) |
 | [0830-largest-triangle-area](https://github.com/tilwe28/leetcode/tree/master/0830-largest-triangle-area) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/tilwe28/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tilwe28/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/tilwe28/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Geometry
 |  |
@@ -440,6 +442,7 @@ Collection of LeetCode questions that I have done.
 | [0906-walking-robot-simulation](https://github.com/tilwe28/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/tilwe28/leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2169-simple-bank-system](https://github.com/tilwe28/leetcode/tree/master/2169-simple-bank-system) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tilwe28/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3905-partition-string](https://github.com/tilwe28/leetcode/tree/master/3905-partition-string) |
 ## Iterator
 |  |
@@ -471,4 +474,8 @@ Collection of LeetCode questions that I have done.
 | [2161-stock-price-fluctuation](https://github.com/tilwe28/leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/tilwe28/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/tilwe28/leetcode/tree/master/3678-design-task-manager) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tilwe28/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
